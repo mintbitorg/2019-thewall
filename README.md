@@ -1,2 +1,5 @@
-# 2019thewall
-Wall web design
+# The Wall
+Wall web design via Squarespace
+
+
+## Changelog
